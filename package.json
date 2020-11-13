@@ -1,6 +1,6 @@
 {
   "name": "ableton-licence-backup",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -36,5 +36,9 @@
   },
   "dependencies": {
     "@stonegray/ableton-detect": "0.0.13"
-  }
+  },
+  "bin": {
+    "ableton-licence-backup": "./bin/index.js"
+  },
+  "preferGlobal": true
 }

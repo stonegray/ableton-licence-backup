@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // Ableton version and install info
 
 import path from 'path';

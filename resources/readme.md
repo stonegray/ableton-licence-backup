@@ -1,1 +1,0 @@
-These licence files are provided exclusively for the purposes of documenting the file format for interoperability, to allow 3rd-party software to verify licences.
