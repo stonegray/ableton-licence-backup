@@ -35,6 +35,6 @@
     "eslint": "^7.13.0"
   },
   "dependencies": {
-    "@stonegray/ableton-detect": "0.0.11"
+    "@stonegray/ableton-detect": "0.0.13"
   }
 }
