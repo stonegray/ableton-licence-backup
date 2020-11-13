@@ -8,7 +8,7 @@
 
 This works only for full licences of Ableton 10.x. It will work even if they were activated using the website and you never actually had an `.auz` licence file. Trial licences are unsupported right now, but it's possible they can be added if we learn a little more about the format of the file. (See below for how to help!)
 
-Looking for a GUI version packaged as a `.app`? I'm happy to write this for people that aren't comfortable using the terminal if there's demand! Drop a message using the issue tracker above.
+Looking for a GUI version packaged as a `.app`? I'm happy to write this for people that aren't familliar with using terminal if there's demand! Drop a message using the issue tracker above.
 
 ## Installation & Usage
 
