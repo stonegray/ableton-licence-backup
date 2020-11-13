@@ -24,15 +24,10 @@ Type `ableton-licence-backup` to export the licence files for the latest version
 
 ## Want to help?
 
-I'm looking for users who are activating Abelton to use the offline activation and send me the `.auz` files, and their `Unlock.cfg` files. You can redact your serial number and responce code if you want, although these can't be used to activate or do anything nefarious with your licence. 
-
-These will be used to help document parts of the file format we currently don't know, or only partially understand, such as DistrobutionType.
+I'm looking for users who are activating Abelton to use the offline activation and send me the `.auz` files, and their `Unlock.cfg` files. These will be used to help document parts of the file format we currently don't know, or only partially understand, such as DistrobutionType.
 
 Specifically I'm looking for:
   - `.auz`/`.cfg` from a Trial or time limited installation
-  - `.auz`/`.cfg` from Intro or Standard (I only need the first line of the .auz for these)
-  - `.auz`/`.cfg` from Ableton 9.x
-  - Any other weird licence files you might have kicking around
 
 I already have enough data from Suite and Lite owners, thanks everybody for the help!
   
