@@ -14,7 +14,7 @@ Looking for a GUI version packaged as a `.app`? I'm happy to write this for peop
 
 Run `npm i -g ableton-licence-backup` to install the utility.
 
-Type `ableton-licence-backup latest` to export the licence files for the latest version into your current directory.
+Type `ableton-licence-backup` to export the licence files for the latest version into your current directory.
 
 ## Requirements:
 
