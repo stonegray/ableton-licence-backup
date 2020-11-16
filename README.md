@@ -22,12 +22,3 @@ Type `ableton-licence-backup` to export the licence files for the latest version
   - macOS 
   - Node 15+
 
-## Want to help?
-
-I'm looking for users who are activating Abelton to use the offline activation and send me the `.auz` files, and their `Unlock.cfg` files. These will be used to help document parts of the file format we currently don't know, or only partially understand, such as DistrobutionType.
-
-Specifically I'm looking for:
-  - `.auz`/`.cfg` from a Trial or time limited installation
-
-I already have enough data from Suite and Lite owners, thanks everybody for the help!
-  
